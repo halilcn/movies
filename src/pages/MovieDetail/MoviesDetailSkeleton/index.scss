@@ -1,0 +1,14 @@
+.movie-detail-skeleton {
+  &__skeletons {
+    display: flex;
+  }
+
+  &__info-skeleton-wrapper {
+    margin-bottom: 40px;
+  }
+
+  &__info {
+    width: 100%;
+    padding: 30px;
+  }
+}

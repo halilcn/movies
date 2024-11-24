@@ -1,0 +1,33 @@
+.movie-detail-content {
+  &__info {
+    margin-top: 30px;
+    display: flex;
+  }
+
+  &__details {
+    margin-left: 40px;
+  }
+
+  &__title {
+    font-size: 24px;
+    font-weight: 600;
+  }
+
+  &__detail-list {
+    margin-top: 20px;
+  }
+
+  &__detail-item {
+    margin-bottom: 20px;
+  }
+
+  &__detail-item-title {
+    font-weight: 400;
+    font-size: 18px;
+  }
+
+  &__detail-item-content {
+    font-size: 16px;
+    margin-top: 5px;
+  }
+}

@@ -1,0 +1,15 @@
+.movies {
+  &__filters {
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 15px;
+    z-index: 1;
+  }
+
+  &__table {
+    margin-top: 15px;
+  }
+}

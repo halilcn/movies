@@ -1,0 +1,11 @@
+.movies-filters {
+  display: flex;
+
+  &__filter-item {
+    margin-right: 20px;
+  }
+
+  &__clear-button {
+    margin-left: auto;
+  }
+}
